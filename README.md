@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @maxlj
+- 👀 I’m interested in machine learning and artificial intelligence.
+- 🌱 I’m currently learning data science, cybersecurity techniques, Java and calculus basics.
+- 💞️ I’m looking to collaborate on learning and any internship opportunities.
